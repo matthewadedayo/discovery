@@ -1,0 +1,11 @@
+eureka:
+  client:
+    reister-with-eureka: false
+    fetch-registry: false
+  datacenter: Lagos-Nigeria
+  environment: production
+server:
+    port: 8761
+        
+        
+   
